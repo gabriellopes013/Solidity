@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "texto2",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/TesteVariavel.sol": "TesteVariavel"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/TesteVariavel.sol": {
+			"keccak256": "0x0020425b437d38f6d8d90ccbe5e84248172cc034e8e87d0837989638ec229ec7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://53e7f0e3c75b89322eefedbc79d2c2952c9708d69c0f7f5abd6ed3af3d7eee54",
+				"dweb:/ipfs/QmYbyAM15EZUZcQrdASZ6fcRRJCV9La3uWWQ5angaLaNyd"
+			]
+		}
+	},
+	"version": 1
+}
