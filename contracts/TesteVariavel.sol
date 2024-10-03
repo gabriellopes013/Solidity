@@ -8,3 +8,4 @@ contract TesteVariavel{
 
     //[TIPO] [VISIBILIDADE] [NOME]
 }
+

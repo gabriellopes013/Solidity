@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"contracts/PegaVariavel.sol": {
-			"keccak256": "0x21a2643b1b03163ab2278e3ff4b4438ce23552cbc7b02be2b9db5e9d69d24cc3",
+			"keccak256": "0xcdcd6f4e33e07fe6e9006e10c8382548a8e60d318126a884d227112ef793e705",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://eca0e9588609349fd626d82f99258067426e7eb20f861c1885fe55e8fea8dba6",
-				"dweb:/ipfs/QmZ778gwxAgQKe8GpFWuyUczKThteL8on7e2Js62pQFgqR"
+				"bzz-raw://a91c5a5468c87ca52a3acd3c465ad631ebddbac2bd4cb18e30e93c70aa65d6d0",
+				"dweb:/ipfs/Qmf2Qj5rNmB8L8KsAHad1f7VcGhGgfdHkvjJKynQHZgbcx"
 			]
 		}
 	},
